@@ -3,7 +3,7 @@ package programmers.level1;
 import java.util.HashMap;
 
 //완주하지 못한 선수
-public class NonCompleteMarathon {
+public class 완주하지_못한_선수 {
 
     public static void main(String[] args) {
         Solution solution = new Solution();

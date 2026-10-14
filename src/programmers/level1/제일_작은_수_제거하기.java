@@ -4,7 +4,7 @@ package programmers.level1;
 import java.util.Arrays;
 
 //제일 작은 수 제거하기
-public class removeMinArray {
+public class 제일_작은_수_제거하기 {
     public static void main(String[] args) {
         Solution solution = new Solution();
 

@@ -1,10 +1,7 @@
 package programmers.level1;
 
-import java.util.ArrayList;
-import java.util.List;
-
 //소수 찾기
-public class findingPrimes {
+public class 소수_찾기 {
     public static void main(String[] args) {
         Solution solution = new Solution();
 
